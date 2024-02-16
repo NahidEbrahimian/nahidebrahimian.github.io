@@ -198,11 +198,12 @@
         if ($("#type-it").exists()) {
             loadScript(plugin_track + 'typeit-master/typeit.js', function() {
                 new TypeIt('#type-it', {
-                    speed: 200,
+                    speed: 80,
                     loop: true,
                     strings: [
+                        'Computer Vision Engineer',
                         'Machine Learning Engineer',
-                        'Developer'
+                        'Deep Learning Reasercher'
                     ],
                     breakLines: false
                 });
