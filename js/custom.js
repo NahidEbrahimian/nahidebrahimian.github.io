@@ -1,7 +1,7 @@
 (function($) {
     "use strict";
     var WEA = {};
-    var plugin_track = 'assets/vendor/';
+    var plugin_track = './vendor/';
     $.fn.exists = function() {
         return this.length > 0;
     };
@@ -201,7 +201,7 @@
                     speed: 200,
                     loop: true,
                     strings: [
-                        'Designer',
+                        'Machine Learning Engineer',
                         'Developer'
                     ],
                     breakLines: false
