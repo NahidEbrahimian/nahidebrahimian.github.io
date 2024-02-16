@@ -25,7 +25,7 @@ Primary use:    pxdraft
 @import "../vendor/font-awesome/css/all.min.css";
 @import url("https://fonts.googleapis.com/css2?family=Rubik:wght@300;400;500;600;700;800;900&display=swap");
 :root,
-/* [data-bs-theme=light] {
+[data-bs-theme=light] {
   --px-theme:	#ffdad9;
   --px-theme-text:	#2d1516;
   --px-bg:	#fcfcfc;
@@ -37,7 +37,7 @@ Primary use:    pxdraft
   --px-gray-5:	#eddfe0;
   --px-border:	#f4dedd;
   --bs-heading-color:	#211a1a;
-} */
+}
 
 [data-bs-theme=dark] {
   --px-theme:	#5c3f3f;
