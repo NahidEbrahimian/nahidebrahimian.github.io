@@ -198,7 +198,7 @@
         if ($("#type-it").exists()) {
             loadScript(plugin_track + 'typeit-master/typeit.js', function() {
                 new TypeIt('#type-it', {
-                    speed: 80,
+                    speed: 90,
                     loop: true,
                     strings: [
                         'Computer Vision Engineer',
