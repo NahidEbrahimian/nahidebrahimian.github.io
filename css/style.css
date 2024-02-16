@@ -24,20 +24,6 @@ Primary use:    pxdraft
 @import "../vendor/magnific/magnific-popup.css";
 @import "../vendor/font-awesome/css/all.min.css";
 @import url("https://fonts.googleapis.com/css2?family=Rubik:wght@300;400;500;600;700;800;900&display=swap");
-:root,
-[data-bs-theme=light] {
-  --px-theme:	#ffdad9;
-  --px-theme-text:	#2d1516;
-  --px-bg:	#fcfcfc;
-  --px-text:	#534343;
-  --px-gray-1:	#f5f0f0;
-  --px-gray-2:	#f3eaeb;
-  --px-gray-3:	#f0e5e5;
-  --px-gray-4:	#efe3e4;
-  --px-gray-5:	#eddfe0;
-  --px-border:	#f4dedd;
-  --bs-heading-color:	#211a1a;
-}
 
 [data-bs-theme=dark] {
   --px-theme:	#5c3f3f;
